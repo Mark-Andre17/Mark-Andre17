@@ -48,6 +48,6 @@
 <hr>
 :fire: Моя статистика :
 
-<br><img src="http://github-readme-streak-stats.herokuapp.com?user=Mark-Andre17&theme=dracula&hide_border=true&border_radius=5&locale=ru"/>
+<br><img src="http://github-readme-streak-stats.herokuapp.com?user=Mark-Andre17&theme=dracula&hide_border=true&border_radius=5&locale=eng"/>
 <hr>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Andre17&layout=compact&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Andre17&layout=compact&theme=dracula&hide_border=true">
