@@ -15,7 +15,7 @@
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=Mark-Andre17&style=flat-square&color=blue" alt=""/><br>
   <img src="https://media.giphy.com/media/wJP2Z0HVBKfEw6nYJI/giphy.gif" width="60px"/>
-  <h1>Я, Андрей Марков</h1>
+  <h1 color="white">Я, Андрей Марков</h1>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
