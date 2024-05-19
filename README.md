@@ -23,7 +23,7 @@
 <hr>
 :man_technologist: <strong>Обо мне</strong> :
 <div>
-  Я - начинающий Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из России.
+  Я - начинающий Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 </div><br>
 <ol>
   <li>Люблю волейбол, футбол, настольный теннис ⚽🏟🥅</li>
